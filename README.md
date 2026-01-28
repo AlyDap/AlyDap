@@ -6,7 +6,8 @@ I am a **Fullstack Web Developer** passionate about building clean, functional, 
 
 ## 🚀 My Professional Portfolio
 I have compiled my best works and projects into a dedicated showcase website.
-### 👉 [**View My Live Portfolio Here**](https://alydap.github.io/)
+
+### 👉 <a href="https://alydap.github.io/" target="_blank"><strong>View My Live Portfolio Here</strong></a>
 
 ---
 
