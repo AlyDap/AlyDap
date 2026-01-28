@@ -12,9 +12,20 @@ I have compiled my best works and projects into a dedicated showcase website.
 ---
 
 ## 🛠️ Skills & Tech Stack
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Frameworks:** Laravel, CodeIgniter 4, Bootstrap 5
-- **Tools:** Git, GitHub, Vercel, MySQL
+
+### 💻 Programming Language & Scripting
+- **Main:** PHP, JavaScript, HTML, CSS, SQL, Java
+- **Learning/Beginner:** Go, Python
+
+### 📚 Frameworks, Libraries & Plugins
+- **Frameworks:** Laravel 9+, CodeIgniter 4
+- **CSS Frameworks:** Bootstrap, Tailwind
+- **Libraries & Plugins:** jQuery, DataTables, SweetAlert2, AOS Animation, Chart.js, Select2
+
+### 🗄️ Databases & Tools
+- **Databases:** MySQL, PostgreSQL (Beginner), SQLite (Beginner)
+- **Development Tools:** GIT, Postman, Vercel, DBeaver, PgAdmin4
+- **Productivity:** Microsoft Office
 
 ## 📈 GitHub Stats
 ![AlyDap's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyDap&show_icons=true&theme=dark)
