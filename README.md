@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Yooo, I am Muhammad Ferdynan Ali Syahbana
 
-<!--
-**AlyDap/AlyDap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Fullstack Web Developer** passionate about building clean, functional, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Professional Portfolio
+I have compiled my best works and projects into a dedicated showcase website.
+### 👉 [**View My Live Portfolio Here**](https://alydap.github.io/)
+
+---
+
+## 🛠️ Skills & Tech Stack
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** Laravel, CodeIgniter 4, Bootstrap 5
+- **Tools:** Git, GitHub, Vercel, MySQL
+
+## 📈 GitHub Stats
+![AlyDap's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyDap&show_icons=true&theme=dark)
+
+---
+*Feel free to explore my repositories or contact me for collaboration!*
